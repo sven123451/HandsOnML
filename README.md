@@ -1,2 +1,0 @@
-# HandsOnML
-HandsOnML
